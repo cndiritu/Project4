@@ -1,1 +1,2 @@
 # Project4
+In this class project I worked with a partner to execute a forest fire sumilation according to the computational modelling concept cellular automata. Together we worked on five files that focused on configuring the matrix that represented the forest. I worked on all five files but primarily focused my efforts on the runOneStep method which was by far the most challenging method. This was my first time working with a 2D matrix and is my favorite project the end result was beautiful. 
